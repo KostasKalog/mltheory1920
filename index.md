@@ -18,8 +18,8 @@ The reading group sessions take place every second **Thursday, 13:00-14:00**, Le
 
 | # | Date                      | Topic                                                             | Discussion lead |
 |---|---------------------------|-------------------------------------------------------------------|-----------------|
-| 1 | 14th Oct, 2019         | TBA  |   |
-| 2 | 28th Oct, 2019        |  TBA |  |
-| 3 |  11th Nov, 2019    | TBA  |     |
-| 4 | 25th Nov, 2019       |  TBA  |         |
-| 5 | 9th Dec, 2019       |  TBA     |        |
+| 1 | 30th Jan, 2020         | TBA  |   |
+| 2 | 13th Feb, 2020        |  TBA |  |
+| 3 | 27th Feb, 2020    | TBA  |     |
+| 4 | 12th Mar, 2020      |  TBA  |         |
+| 5 | 26th Mar, 2020      |  TBA     |        |
