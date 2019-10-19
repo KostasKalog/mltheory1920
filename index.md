@@ -1,3 +1,11 @@
+## Description
+
+A reading group organised by the [Data Science group](http://www.lse.ac.uk/Statistics/Research/Data-Science) of LSE [Department of Statistics](http://www.lse.ac.uk/Statistics). Topics involve Machine Learning techniques with a focus on the main ideas from a theoretical point of view without necessarily excluding applications of the method.
+
+## Membership
+
+The group us currently open to all members of the Department of Statistics. If you want to stop receiving emails about it contact Kayleigh Brewer.
+
 ## Meeting schedule
 
 ### Michaelmans Term
@@ -10,7 +18,7 @@ The reading group sessions take place every second **Monday, 13:00-14:00**, Leve
 | 2 | 28th Oct, 2019        |  [Kernel and Mean Embedding of Distributions: A Review and Beyond](https://arxiv.org/abs/1605.09522), Muandet, Fukumizu, Sriperumbudur and Schölkopf, 2017                                                         | Wicher Bergsma |
 | 3 |  11th Nov, 2019    |  [Learning Generative Models with Sinkhorn Divergences](https://arxiv.org/abs/1706.00292), Genevay, Peyré and Cuturi                     |  Bea Acciaio    |
 | 4 | 25th Nov, 2019       |  TBA    |         |
-| 5 | 9th Dec, 2019       |  TBA     |        |
+| 5 | 9th Dec, 2019       |  TBA     |  [Johannes Schmidt-Hieber](https://wwwhome.ewi.utwente.nl/~schmidtaj/index.html)    |
 
 ### Lent Term
 
