@@ -15,7 +15,7 @@ The reading group sessions take place every second **Monday, 13:00-14:00**, Leve
 | Date                        | Topic                                                           | Discussion lead |
 |-----------------------------|-----------------------------------------------------------------|-----------------|
 | 14th Oct, 2019         |  [A Theoretical Analysis of Deep Q-Learning](https://arxiv.org/abs/1901.00137),<br/> Yang, Xie and Wang, 2019 | Chengchun Shi    |
-| 28th Oct, 2019        |  [Kernel and Mean Embedding of Distributions: A Review and Beyond](https://arxiv.org/abs/1605.09522),<br/> Muandet, Fukumizu, Sriperumbudur and Schölkopf, 2017                                                         | Wicher Bergsma |
+| 28th Oct, 2019        |  [Kernel and Mean Embedding of Distributions: A Review and Beyond](https://arxiv.org/abs/1605.09522), Muandet, Fukumizu, Sriperumbudur and Schölkopf, 2017                                                         | Wicher Bergsma |
 |  11th Nov, 2019    |  [Learning Generative Models with Sinkhorn Divergences](https://arxiv.org/abs/1706.00292),<br/> Genevay, Peyré and Cuturi                     |  Bea Acciaio    |
 | 25th Nov, 2019       |  TBA    |  [Yves-Alexandre de Montjoye](https://www.demontjoye.com)       |
 | 9th Dec, 2019       |  TBA     |  [Johannes Schmidt-Hieber](https://wwwhome.ewi.utwente.nl/~schmidtaj/index.html)    |
