@@ -1,6 +1,6 @@
 ## Description
 
-A reading group organised by the [Data Science group](http://www.lse.ac.uk/Statistics/Research/Data-Science) of LSE [Department of Statistics](http://www.lse.ac.uk/Statistics). Topics involve Machine Learning techniques with a focus on the main ideas from a theoretical point of view without necessarily excluding applications of the method.
+A reading group organised by the [Data Science group](http://www.lse.ac.uk/Statistics/Research/Data-Science) of LSE [Department of Statistics](http://www.lse.ac.uk/Statistics). Topics involve Machine Learning techniques with a focus on the main ideas from a theoretical point of view without necessarily excluding applications of the method. See [here](https://lse-ml.github.io) for last year's reading group.
 
 ## Membership
 
