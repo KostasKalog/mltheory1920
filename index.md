@@ -26,8 +26,7 @@ The reading group sessions take place every second **Thursday, 13:00-14:00**, Le
 
 | Date.                       | Topic                                                             | Discussion lead |
 |-----------------------------|-------------------------------------------------------------------|-----------------|
-| 30th Jan, 2020         | TBA  |   |
-| 13th Feb, 2020        |  TBA |  |
-| 27th Feb, 2020    | TBA  |     |
-| 12th Mar, 2020      |  TBA  |         |
-| 26th Mar, 2020      |  TBA     |        |
+| 30th Jan, 2020         | TBA  |  [Afonso Bandeira](https://people.math.ethz.ch/~abandeira/) |
+| 13th Feb, 2020        |  TBA | Qiwei Yao |
+| 12th Mar, 2020      |  TBA  | [Michalis Titsias](http://www2.aueb.gr/users/mtitsias/)        |
+| 26th Mar, 2020      |  TBA     | [Arthur Gretton](http://www.gatsby.ucl.ac.uk/~gretton/)       |
