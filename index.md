@@ -26,7 +26,9 @@ The reading group sessions take place every second **Thursday, 13:00-14:00**, Le
 
 | Date.                       | Topic                                                             | Discussion lead |
 |-----------------------------|-------------------------------------------------------------------|-----------------|
-| 30th Jan, 2020         | TBA  |  [Afonso Bandeira](https://people.math.ethz.ch/~abandeira/), ETH |
+| 30th Jan, 2020         | Computation, Statistics, and Optimization of random functions <details>When faced with a data analysis, learning, or statistical inference problem, the amount and quality of data available fundamentally determines whether such tasks can be performed with certain levels of accuracy. Indeed, many theoretical disciplines study limits of such tasks by investigating whether a dataset effectively contains the information of interest. With the growing size of datasets however, it is crucial not only that the underlying statistical task is possible, but also that is doable by means of efficient algorithms. In this talk we will discuss methods aiming to establish limits of when statistical tasks are possible with computationally efficient methods or when there is a fundamental ``Statistical-to-Computational gap'' in which an inference task is statistically possible but inherently computationally hard. 
+This is intimately related to understanding (average-case, as opposed to the most commonly studied worst-case) computational hardness of optimizing random functions, which is tightly connected, among other things, to statistical physics, and the study of spin glasses and random geometry.
+ </details>  |  [Afonso Bandeira](https://people.math.ethz.ch/~abandeira/), ETH |
 | 13th Feb, 2020        |  TBA | Qiwei Yao, LSE |
 | 12th Mar, 2020      |  TBA  | [Michalis Titsias](http://www2.aueb.gr/users/mtitsias/), Google DeepMind        |
 | 26th Mar, 2020      |  TBA     | [Arthur Gretton](http://www.gatsby.ucl.ac.uk/~gretton/), UCL       |
